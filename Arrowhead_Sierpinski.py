@@ -57,3 +57,4 @@ def reverse_arrowhead(level, l):
             upside_arrowhead(level-1, l/2)
 
 upside_arrowhead(5,266)
+reverse_arrowhead(3,222)
